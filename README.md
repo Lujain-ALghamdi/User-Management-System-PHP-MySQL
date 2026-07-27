@@ -31,6 +31,7 @@ The project allows users to add personal information, store it in a MySQL databa
 ---
 
 ## 📁 Project Structure
+```
 dreamy-users/
 ├── index.php          # Main page (form + table)
 ├── db.php              # Database connection settings
@@ -41,6 +42,7 @@ dreamy-users/
 ├── script.js            # Client-side AJAX logic
 ├── database.sql         # SQL to create the `users` table
 └── README.md             # This file
+```
 
 ---
 
