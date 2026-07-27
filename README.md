@@ -6,6 +6,7 @@ The project allows users to add personal information, store it in a MySQL databa
 ---
 <img width="2880" height="1920" alt="لقطة شاشة 2026-07-27 070147" src="https://github.com/user-attachments/assets/36ff3128-3521-45f8-ab94-4e03955f0c3f" />
 <img width="2880" height="1920" alt="لقطة شاشة 2026-07-27 071244" src="https://github.com/user-attachments/assets/fa3b7b29-cb55-4bf3-82d3-d980965e0d89" />
+<img width="2872" height="984" alt="image" src="https://github.com/user-attachments/assets/c3f03958-b935-4a3e-9b93-ad98db1a130f" />
 
 ## ✨ Project Features
 
